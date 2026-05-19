@@ -231,8 +231,8 @@ You describe your event — occasion, guests, location, budget, dietary preferen
 
 | Project | Highlight | Link |
 |--------|-----------|------|
-| 📡 **Telecom Churn Prediction** | AUC **81%** — PCA + XGBoost + Logistic Regression | [View Repo](https://github.com/uttu-001/Telecom-Churn-Case-Study) |
-| 🚲 **Bike Rental Demand Prediction** | R² **0.82** — Linear Regression | [View Repo](https://github.com/uttu-001/Bike-Rental-Linear-Regression) |
+| 📡 **Telecom Churn Prediction** | AUC **81%** — PCA + XGBoost + Logistic Regression | [View Repo](https://github.com/thebluntcoder/Telecom-Churn-Case-Study) |
+| 🚲 **Bike Rental Demand Prediction** | R² **0.82** — Linear Regression | [View Repo](https://github.com/thebluntcoder/Bike-Rental-Linear-Regression) |
 
 ---
 
