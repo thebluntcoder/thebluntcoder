@@ -388,8 +388,6 @@ Personal Loan · Business Loan · Credit Card · Loan Against Property (LAP) · 
 
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=1b2b3195-2f68-41bb-bf2a-c5cf4bd6838f&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12)](https://wakatime.com/@1b2b3195-2f68-41bb-bf2a-c5cf4bd6838f)
-
 [![wakatime](https://wakatime.com/badge/user/1b2b3195-2f68-41bb-bf2a-c5cf4bd6838f.svg)](https://wakatime.com/@uttu_001)
 
 <br/>
