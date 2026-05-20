@@ -368,6 +368,10 @@ Personal Loan · Business Loan · Credit Card · Loan Against Property (LAP) · 
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebluntcoder&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
 
+<img src="https://github-stats.as93.net/api?username=thebluntcoder&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165" />
+
+<img src="https://github-stats.as93.net/api/top-langs/?username=thebluntcoder&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
+
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=thebluntcoder&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=c9d1d9&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" />
