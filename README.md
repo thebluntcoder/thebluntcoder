@@ -362,17 +362,25 @@ Personal Loan · Business Loan · Credit Card · Loan Against Property (LAP) · 
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thebluntcoder&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165" />
+<img src="https://readme-stats-fork-mauve.vercel.app/api?username=thebluntcoder&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebluntcoder&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
-
-<img src="https://github-stats.as93.net/api?username=thebluntcoder&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165" />
-
-<img src="https://github-stats.as93.net/api/top-langs/?username=thebluntcoder&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
+<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=thebluntcoder&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
 
 <br/>
+
+<img src="https://streak-stats.demolab.com?user=thebluntcoder&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=c9d1d9&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=thebluntcoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thebluntcoder&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ff6b6b&area=true&hide_border=true" width="100%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=thebluntcoder&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=c9d1d9&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" />
 
